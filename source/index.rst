@@ -12,7 +12,7 @@ Welcome to Embedded Vision ST documentation
 Embedded Vision ST
 ------------------
 
-.. image:: _static/logo_silica_nxp.jpg
+.. image:: _static/logo.jpg
 
 .. image:: _static/boards.jpg
 
