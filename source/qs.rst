@@ -96,7 +96,7 @@ Now your Windows is configurated to upload the firmware of the **STM32F746G-DISC
 
 .. image:: _static/program_target.jpg
 
-7. From the window click on the **Browse** button and fine the **STM32746_DISCOVERY.bin** file.
+7. From the window click on the **Browse** button and fine the **STM32746G_DISCOVERY.bin** file.
 
 .. image:: _static/download_window_browse.jpg
 

@@ -37,6 +37,7 @@ Install System Workbench for STM32
 1. The ST System Workbench requires Java Runtime Environment. If you don't have installed on your system please follow the next steps otherwise go to the step 5
 
 2. Download the JavaSE JRE. Minimal version: **JavaSE 1.7.0_45**. You can find it `here <http://www.oracle.com/technetwork/java/javase/downloads/index.html>`_.
+We suggest to use the **offline** version.
 
 .. image:: _static/JavaSE_1.jpg
 
@@ -60,8 +61,6 @@ There are two versions, 32-bit or 64-bit. It depends what kind of version your w
 .. image:: _static/STM32_3.jpg
 
 7. During the installation it will install the ST drivers, if necessary **accept** all the permissions.
-
-.. image:: _static/driver_usb.jpg
 
 Download & Install the project
 ------------------------------
@@ -124,18 +123,26 @@ Debug
 
 .. image:: _static/debug_1.jpg
 
-5. Click on **Browse...** button and find the elf file, using our path it will be **C:\\Ac6\\STM32Cube_FW_F7_V1.4.0\\Projects\\STM32746G-Discovery\\Examples\\CameraDemo_DriverTD7740_STM32f7\\SW4STM32\\STM32746G_DISCOVERY\\Debug\\STM32746G_DISCOVERY.elf**
+5. Click on **Browse...** button and select the project **STM32746G_DISCOVERY_CAMERA_DEMO_OV7740**
+
+.. image:: _static/debug_1_2.jpg
+
+6. Click on **Browse...** button and find the elf file, using our path it will be **C:\\Ac6\\STM32Cube_FW_F7_V1.4.0\\Projects\\STM32746G-Discovery\\Examples\\CameraDemo_DriverTD7740_STM32f7\\SW4STM32\\STM32746G_DISCOVERY\\Debug\\STM32746G_DISCOVERY.elf**
 
 .. image:: _static/debug_2.jpg
 
-6. Apply the changes clicking on **Apply** button
+7. Check the **Debugger** tab if all the options are right
+
+.. image:: _static/debugger_tab.jpg
+
+8. Apply the changes clicking on **Apply** button
 
 .. image:: _static/debug_3.jpg
 
-7. The click on **Debug** button
+9. The click on **Debug** button
 
 .. image:: _static/debug_4.jpg
 
-8. Accept the **debug perspective** and the debug will start on the **main** entry point
+10. Accept the **debug perspective** and the debug will start on the **main** entry point
 
 .. image:: _static/debug_5.jpg
