@@ -41,7 +41,7 @@ We suggest to use the **offline** version.
 
 .. image:: _static/JavaSE_1.jpg
 
-3. Accept the license agreement and download the installation file, **Windows x86** for 32-bit system or **Windows x64** for 64-bit system. If you don't know it just go in **Control Panel -> System** to check the version.
+3. Accept the license agreement and download the installation file, **Windows x86** for 32-bit system or **Windows x64** for 64-bit system. If you don't know it just go in **Control Panel -> System** to check the version or if you have Windows 10 go to **Settings -> System -> About**.
 
 .. image:: _static/JavaSE_2.jpg
 
