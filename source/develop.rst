@@ -34,7 +34,7 @@ Install stsw-link009 USB driver
 Install System Workbench for STM32
 ----------------------------------
 
-1. The ST System Workbench requires Java Runtime Environment. If you don't have installed on your system please follow the next steps otherwise go to the step 5
+1. The ST System Workbench requires Java Runtime Environment. If you don't yet have it installed on your system please follow the next steps otherwise go to the step 5
 
 2. Download the JavaSE JRE. Minimal version: **JavaSE 1.7.0_45**. You can find it `here <http://www.oracle.com/technetwork/java/javase/downloads/index.html>`_.
 We suggest to use the **offline** version.
@@ -48,11 +48,11 @@ We suggest to use the **offline** version.
 4. Launch the installation file and follow all the default options.
 
 5. Download the ST System Workbench from its website `openstm32 <http://www.openstm32.org/Downloading+the+System+Workbench+for+STM32+installer>`_.
-There are two versions, 32-bit or 64-bit. It depends what kind of version your windows it is. If you don't know it just go in **Control Panel -> System** to check the version.
+There are two versions, 32-bit or 64-bit. It depends what kind of version your windows is. If you don't know, just go in **Control Panel -> System** to check the version.
 
 .. note::
 
-  In order to get the software it is necessary have an account onopenstm32 website. You can do it from `here <http://www.openstm32.org/tiki-register.php>`.
+  In order to get the software it is necessary have an account on the openstm32 website. You can do it from `here <http://www.openstm32.org/tiki-register.php>`.
 
 .. image:: _static/dowload_st_sdk.jpg
 
@@ -139,7 +139,7 @@ Debug
 
 .. image:: _static/debug_3.jpg
 
-9. The click on **Debug** button
+9. Then click on the **Debug** button
 
 .. image:: _static/debug_4.jpg
 

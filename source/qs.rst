@@ -5,7 +5,7 @@
 Quick Start Guide
 =================
 
-This guide will show you how to run the demo. This demo permits you to try immediately the **TD7740** camera.
+This guide will show you how to run the demo. This demo allows you to immediately try the **TD7740** camera.
 This guide is written using **Windows** Operating System.
 
 Hardware necessary
@@ -20,8 +20,7 @@ Hardware necessary
 Launching the Demo
 ------------------
 
-The **EV-STM32F7CAM-DVK** is already programmed with the demo. All you need to do is assembly and power supply it.
-
+The **EV-STM32F7CAM-DVK** is already programmed with the demo. All you need to do is the assembly and supply it power.
 1. Plug the **TD7740** camera to the **TDx016** adapter board:
 
 .. image:: _static/TDx016.jpg
@@ -42,7 +41,7 @@ The **EV-STM32F7CAM-DVK** is already programmed with the demo. All you need to d
 
 .. image:: _static/user_button.jpg
 
-5. The display is touch screen and touching it in different ways you can interact with the demo
+5. The display is touch screen and by touching it in different ways you can interact with the demo
 
 .. image:: _static/streaming_camera.jpg
 
@@ -62,7 +61,7 @@ If the board is not programmed with the demo firmware you can upload it by yours
 
 .. note::
 
-  In order to get the software it is necessary have an account on my.st.com website. You can create it `here <http://www.st.com/content/st_com/en/user-registration.html?referrer=https://my.st.com/content/my_st_com/en/products/embedded-software/development-tool-software/stsw-link009.license%3d1473754475284.html>`_
+  In order to get the software it is necessary to have an account on my.st.com website. You can create it `here <http://www.st.com/content/st_com/en/user-registration.html?referrer=https://my.st.com/content/my_st_com/en/products/embedded-software/development-tool-software/stsw-link009.license%3d1473754475284.html>`_
   
 2. Extract and install the driver launching **dpinst_amd64.exe** if you have Windows 64-bit or **dpinst_x86.exe** if your Windows is 32-bit. If you don't know it just go in **Control Panel -> System** to check the version or if you have Windows 10 go to **Settings -> System -> About**.
 
@@ -96,15 +95,15 @@ Now your Windows is configurated to upload the firmware of the **STM32F746G-DISC
 
 .. image:: _static/program_target.jpg
 
-7. From the window click on the **Browse** button and fine the **STM32746G_DISCOVERY.bin** file.
+7. From the window click on the **Browse** button and find the **STM32746G_DISCOVERY.bin** file.
 
 .. image:: _static/download_window_browse.jpg
 
-8. Check the options are right
+8. Check that the options are right
 
 .. image:: _static/download_window_options.jpg
 
-9. Click on **Start** button to upload the firmware in the board
+9. Click on the **Start** button to upload the firmware in the board
 
 .. image:: _static/download_window_start.jpg
 
