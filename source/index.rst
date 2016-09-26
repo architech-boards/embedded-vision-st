@@ -48,19 +48,19 @@ The **TD7740** Image sensor is based on Omnisvision 1/5" OV7740 CMOS VGA sensor.
 - Solderless module: Camera Socket (SMK compatible) or Flex connector (FPC: Flat Pack Connector) 8 x 8 mm module mate on standard Camera Module Socket
 - Active Image size VGA (640x480) 30 fps, and smaller
 - Digital RGB 8/10 bits or YUV 8 bits output
-- Lens Focal length 1.3 mm Field of view from H=90° to 110°
+- Lens Focal length 1.3 mm Field of view from H=66° to 128°
 - Pixel size 4.2µm x 4.2µm
-- Type of filter Dual filter for night vision IR filter for daylight vision (with LED illumination) NO filter for higher image quality
+- Type of filter; Dual filter for daylight and night vision, single filter for daylight vision, no filter for higher image quality
 - Power supply Analog: 3 to 3.6 V I/O: 1.7 to 3.47 V Core: 1.5V +-5% (internal regulator)
 - Typical power requirements Active: 48 mA Standby: 20 µA Core: 1.5V +-5% (internal regulator)
 - Operating range -30°/70°C stable image 0°/50°C
 
 
 
-Developement tools
-******************
+Development tools
+*****************
 
-ST releases the **System Workbench for STM32** including support for the STM32F746 Discovery kit. Based on free, open-source software including Eclipse, GNU Compiler Collection (GCC), GNU Debugger (GDB), and others, the Kinetis Design Studio IDE offers designers a simple development tool with no code-size limitations.
+ST releases the **Kinetis Design Studio IDE** including support for the STM32F746 Discovery kit. Based on free, open-source software including Eclipse, GNU Compiler Collection (GCC), GNU Debugger (GDB), and others, the Kinetis Design Studio IDE offers designers a simple development tool with no code-size limitations.
 
 Contents:
 

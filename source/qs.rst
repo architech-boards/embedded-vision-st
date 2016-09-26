@@ -75,7 +75,7 @@ If the board is not programmed with the demo firmware you can upload it by yours
 
 Now your Windows is configurated to upload the firmware of the **STM32F746G-DISCO** board
 
-1. Download the `firmware Demo <_static/STM32746G_DISCOVERY.bin>`_
+1. Download the `firmware Demo <>`_
 
 2. Plug in the **USB Mini** cable from the PC to the **CN14** connector of the board
 
