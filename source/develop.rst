@@ -47,12 +47,12 @@ We suggest to use the **offline** version.
 
 4. Launch the installation file and follow all the default options.
 
-5. Download the ST System Workbench from its website `openstm32 <http://www.openstm32.org/Downloading+the+System+Workbench+for+STM32+installer>`_.
+5. Download the ST System Workbench from its website `http://www.openstm32.org <http://www.openstm32.org>`_.
 There are two versions, 32-bit or 64-bit. It depends what kind of version your windows is. If you don't know, just go in **Control Panel -> System** to check the version.
 
 .. note::
 
-  In order to get the software it is necessary have an account on the openstm32 website. You can do it from `here <http://www.openstm32.org/tiki-register.php>`.
+  In order to get the software it is necessary have an account on the openstm32 website. You can do it from `here <http://www.openstm32.org/tiki-register.php>`_.
 
 .. image:: _static/dowload_st_sdk.jpg
 
@@ -65,7 +65,7 @@ There are two versions, 32-bit or 64-bit. It depends what kind of version your w
 Download & Install the project
 ------------------------------
 
-1. Download the project `evSTM32f7v01.zip <>`_
+1. Download the project `evSTM32f7v01.zip <_static/404>`_
 
 2. Download STM32CubeF7_1 from the `ST website <http://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32cube-embedded-software/stm32cubef7.html>`_ accepting the agreement.
 

@@ -4,9 +4,9 @@ Welcome to Embedded Vision ST documentation
 ===========================================
 
 
-:Version: 1.00A
+:Version: 1.00B
 :Copyright: (C)2016 Avnet Silica company
-:Date: 6 Sep 2016
+:Date: 26 Sep 2016
 :Reference name: EV-STM32F7CAM-DVK
 
 Embedded Vision ST
@@ -50,7 +50,7 @@ The **TD7740** Image sensor is based on Omnisvision 1/5" OV7740 CMOS VGA sensor.
 - Digital RGB 8/10 bits or YUV 8 bits output
 - Lens Focal length 1.3 mm Field of view from H=66° to 128°
 - Pixel size 4.2µm x 4.2µm
-- Type of filter; Dual filter for daylight and night vision, single filter for daylight vision, no filter for higher image quality
+- Type of filter; dual filter for daylight and night vision, single filter for daylight vision, no filter for higher image quality
 - Power supply Analog: 3 to 3.6 V I/O: 1.7 to 3.47 V Core: 1.5V +-5% (internal regulator)
 - Typical power requirements Active: 48 mA Standby: 20 µA Core: 1.5V +-5% (internal regulator)
 - Operating range -30°/70°C stable image 0°/50°C

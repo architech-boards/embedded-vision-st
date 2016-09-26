@@ -20,7 +20,8 @@ Hardware necessary
 Launching the Demo
 ------------------
 
-The **EV-STM32F7CAM-DVK** is already programmed with the demo. All you need to do is the assembly and supply it power.
+The **EV-STM32F7CAM-DVK** is already programmed with the demo. All you need to do is to assemble and supply power.
+
 1. Plug the **TD7740** camera to the **TDx016** adapter board:
 
 .. image:: _static/TDx016.jpg
@@ -65,7 +66,7 @@ If the board is not programmed with the demo firmware you can upload it by yours
   
 2. Extract and install the driver launching **dpinst_amd64.exe** if you have Windows 64-bit or **dpinst_x86.exe** if your Windows is 32-bit. If you don't know it just go in **Control Panel -> System** to check the version or if you have Windows 10 go to **Settings -> System -> About**.
 
-3. During the installation accept all the persmission requests.
+3. During the installation accept all the permission requests.
 
 4. Download accepting the agreement of the **stsw-link004 STM32 ST-LINK utility** from the `ST website <http://www.st.com/content/st_com/en/products/embedded-software/development-tool-software/stsw-link004.html>`_
 
@@ -107,7 +108,7 @@ Now your Windows is configurated to upload the firmware of the **STM32F746G-DISC
 
 .. image:: _static/download_window_start.jpg
 
-10. After the programming the demo will start automatically
+10. After programming the demo will start automatically
 
 .. image:: _static/start_demo.jpg
 
