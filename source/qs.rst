@@ -76,7 +76,7 @@ If the board is not programmed with the demo firmware you can upload it by yours
 
 Now your Windows is configurated to upload the firmware of the **STM32F746G-DISCO** board
 
-1. Download the `firmware Demo <>`_
+1. Download the firmware Demo from `Silica website <http://registration.silica.eu/other/embedded-vision-software-update-STM.html>`_
 
 2. Plug in the **USB Mini** cable from the PC to the **CN14** connector of the board
 
