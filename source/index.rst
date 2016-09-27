@@ -64,7 +64,7 @@ The **TD7740** Image sensor is based on Omnisvision 1/5" OV7740 CMOS VGA sensor.
 Development tools
 *****************
 
-ST releases the **Kinetis Design Studio IDE** including support for the STM32F746 Discovery kit. Based on free, open-source software including Eclipse, GNU Compiler Collection (GCC), GNU Debugger (GDB), and others, the Kinetis Design Studio IDE offers designers a simple development tool with no code-size limitations.
+ST releases the **System Workbench for STM32** including support for the STM32F746 Discovery kit. Based on free, open-source software including Eclipse, GNU Compiler Collection (GCC), GNU Debugger (GDB), and others, the Kinetis Design Studio IDE offers designers a simple development tool with no code-size limitations.
 
 Contents:
 
