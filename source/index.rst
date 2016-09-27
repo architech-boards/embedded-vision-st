@@ -18,6 +18,10 @@ Embedded Vision ST
 
 *Embedded Vision STM32F7 Camera TD7740 Development Kit*
 
+.. note::
+
+  The color of the adapter board in the kit can be different than the color on the images in the Quick Start Guide and Developing Guide. However this does not affect the functionality of the board
+
 .. index:: index
 
 **INTRODUCTION**
