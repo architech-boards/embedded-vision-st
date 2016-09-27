@@ -4,9 +4,9 @@ Welcome to Embedded Vision ST documentation
 ===========================================
 
 
-:Version: 1.00B
+:Version: 1.00C
 :Copyright: (C)2016 Avnet Silica company
-:Date: 26 Sep 2016
+:Date: 27 Sep 2016
 :Reference name: EV-STM32F7CAM-DVK
 
 Embedded Vision ST
