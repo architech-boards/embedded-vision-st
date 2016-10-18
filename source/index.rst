@@ -3,10 +3,9 @@
 Welcome to Embedded Vision ST documentation
 ===========================================
 
-
-:Version: 1.00C
+:Version: 1.00D
 :Copyright: (C)2016 Avnet Silica company
-:Date: 27 Sep 2016
+:Date: 18 Oct 2016
 :Reference name: EV-STM32F7CAM-DVK
 
 Embedded Vision ST
@@ -18,7 +17,12 @@ Embedded Vision ST
 
 *Embedded Vision STM32F7 Camera TD7740 Development Kit*
 
+
 .. note::
+
+  **Visit** `www.avnet-silica.com/embedded-vision <www.avnet-silica.com/embedded-vision>`_ **to buy this development kit**
+
+.. warning::
 
   The color of the adapter board in the kit can be different than the color on the images in the Quick Start Guide and Developing Guide. However this does not affect the functionality of the board
 
