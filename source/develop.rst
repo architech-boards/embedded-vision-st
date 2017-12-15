@@ -65,7 +65,7 @@ There are two versions, 32-bit or 64-bit. It depends what kind of version your w
 Download & Install the project
 ------------------------------
 
-1. Download the project `evSTM32f7v01.zip <http://registration.silica.eu/other/embedded-vision-software-update-STM.html>`_
+1. Download the project `evSTM32f7v01.zip <https://www.avnet.com/wps/portal/silica/products/product-highlights/2016/ev-stm32f7-camera-development-kit/software-guide-download-page/>`_
 
 2. Download STM32CubeF7_1 from the `ST website <http://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32cube-embedded-software/stm32cubef7.html>`_ accepting the agreement.
 
